@@ -66,7 +66,7 @@
 .header__main-illustration{
   position: absolute;
   background-image: url(../images/header-image.png);
-  width:706px ;
+  width:706px;
   height:600px;
   background-size: contain;
   background-repeat: no-repeat;
@@ -224,7 +224,6 @@
   margin-top: 90px;
   margin-bottom: 20px;
   width: 60%;
-  margin-bottom: 20px;
   text-align: center;
   line-height: 1.15;
   font-size: 60px;
