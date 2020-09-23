@@ -1,0 +1,8 @@
+.footer__links{
+  color: white;
+  text-decoration: none;
+}
+.footer__links:hover{
+  color: gold;
+  text-decoration: none;
+}
