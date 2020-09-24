@@ -2,6 +2,6 @@
   margin:0;
   margin-bottom: 30px;
 }
-.two-columns__paragraph:nth-of-type(3){
+.two-columns__paragraph:last-of-type{
   margin:0;
 }
