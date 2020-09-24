@@ -10,13 +10,5 @@
   text-decoration: none;
 }
 .feynman__link:hover{
-  right: 48px;
-  width: fit-content;
-  position: absolute;
-  margin-top: 395px;
-  line-height: 51px;
-  font-size: 36px;
-  font-weight: normal;
   color:gold;
-  text-decoration: none;
 }
